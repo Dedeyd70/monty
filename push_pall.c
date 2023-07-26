@@ -2,7 +2,7 @@
 
 /**
  * _push - pushes an element to the stack
- * @sp: the stack pointer
+ * @sp: stack pointer
  */
 void _push(stack_t **sp)
 {
