@@ -17,7 +17,7 @@ gcc -Wall _Werror -Wextra -pedantic *.c -o monty
 
 to run monty:
 ```bash
-./monty <filename> 
+./monty <filename>
 ```
 
 ## Features
