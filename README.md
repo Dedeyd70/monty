@@ -51,4 +51,4 @@ When there is no errors, `monty` returns `0` otherwise it returns `1`
 
 ## Authors
 * Dorothy Dede Quao [GitHub] (https://github.com/Dedeyd70)
-* Freda Tsorme-Dzebu [GitHub] (https://github.com/Kelsy3)
+* Freda Tsorme-Dzebu [GitHub] (https://github.com/Kelys3)
